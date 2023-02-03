@@ -1,0 +1,5 @@
+/bazel-bin
+/bazel-cpp-concurrency
+/bazel-out
+/bazel-testlogs
+
